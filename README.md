@@ -1,6 +1,6 @@
 👋 Eswaaa mijn naam is Nowie
 
-👀 Ik ben heel erg geinteresseerd in Lua en FiveM programmeren.
+👀 Ik ben heel erg geinteresseerd in het programmeren binnen Lua en wil binnenkort JavaScript gaan leren.
 
 🌱 Op het moment ben ik bezig met de syntax van Lua leren en het onder de knie krijgen. Ik develop voornamelijk binnen FiveM en probeer alle functies hiervan ook een beetje meer te snappen.
 
